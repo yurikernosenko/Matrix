@@ -1,0 +1,3 @@
+User input number of rows and colums in console window and then fill matrix with numbers. After that user must do the same steps for the second matrix.
+In terminal window you can see result of multiplication first and second matrix. 
+If number of rows in firs matrix not equal number of colums in second matrix in terminal window you will see error message. 
